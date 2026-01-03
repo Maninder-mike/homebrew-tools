@@ -1,8 +1,8 @@
-# Homebrew Tools
+# Milow Terminal Homebrew Tap
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This Homebrew tap provides formulae and casks for Milow tools and applications.
+This Homebrew tap provides the Milow Terminal cask for easy installation of the fleet management application.
 
 ## Installation
 
@@ -11,7 +11,7 @@ This Homebrew tap provides formulae and casks for Milow tools and applications.
 First, add this tap to your Homebrew installation:
 
 ```bash
-brew tap Maninder-mike/tools
+brew tap Maninder-mike/milow-terminal
 ```
 
 ### Install Milow Terminal
